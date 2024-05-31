@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.center {
+  margin: auto;
+  width: 75%;
+  padding: 10px;
+  text-align: center;
+}
+
+.parent {
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+  height: 80%;
+  width: 100%
+}
+.child {
+  display: inline-block;
+  padding: 1rem 1rem;
+  background-color: lightgray;
+  vertical-align: middle;
+  height:500px;
+  width: 45%;
+}
+
+.picture {
+  width: 700px;
+  height: 400px
+  border: 2px;
+}
